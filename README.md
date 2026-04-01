@@ -391,9 +391,6 @@ int main() {
 }
 ```
 ```
-INPUT/OUTPUT
-```
-```
 SAMPLE OUTPUT :-
 ```
 ```

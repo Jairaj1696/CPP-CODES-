@@ -136,7 +136,8 @@ int main() {
 ```
 ```
 INPUT/OUTPUT
-
+```
+```
 Enter Roll Number: 1
 Enter Name: Jairaj
 Enter marks for 5 subjects:

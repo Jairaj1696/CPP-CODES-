@@ -396,6 +396,7 @@ INPUT/OUTPUT
 ```
 SAMPLE OUTPUT :-
 ```
+```
 🏢 Employee Salary Management System
 ✅ Loaded 3 employees from file
 
@@ -412,9 +413,8 @@ ID: E002, Name: Jane Smith, Basic: ₹60000, Total: ₹81000
 ...
 💾 Data saved to employees.txt
 ```
-
-CONCEPTS USED :-
 ```
+CONCEPTS USED :-
 ✅ File I/O (Employee)
 ✅ Exception Handling (Employee)
 ✅ Static Methods (Employee)
